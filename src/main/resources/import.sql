@@ -1,0 +1,1 @@
+INSERT INTO foods (title, url_image, price) VALUES ('ARROZ', 'https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/1.png', 2.5)
